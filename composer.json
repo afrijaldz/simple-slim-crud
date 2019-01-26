@@ -1,0 +1,12 @@
+{
+    "name": "afrijaldzuhri/crud-slim",
+    "authors": [
+        {
+            "name": "Afrijal Dzuhri",
+            "email": "ijuldz@gmail.com"
+        }
+    ],
+    "require": {
+        "slim/slim": "^3.12"
+    }
+}
